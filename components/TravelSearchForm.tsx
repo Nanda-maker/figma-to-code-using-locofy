@@ -150,7 +150,7 @@ const TravelSearchForm: NextPage = () => {
                   />
                 </div>
               </div>
-              <div className="shrink-0 flex flex-col items-center justify-center p-[5px] hover:bg-chocolate md:w-full md:text-left">
+              <div className="shrink-0 flex flex-col items-center justify-center p-[5px] hover:bg-black md:w-full md:text-left">
                 <Button
                   className="cursor-pointer"
                   colorScheme="orange"
@@ -158,7 +158,7 @@ const TravelSearchForm: NextPage = () => {
                   w="164px"
                   onClick={onSearchFlightsButtonClick}
                 >
-                  Search flights
+                  Fligth Finder
                 </Button>
               </div>
             </div>
